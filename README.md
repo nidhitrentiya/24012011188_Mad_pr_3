@@ -2,50 +2,38 @@
 
 ## 📌 Project Overview
 
-This project is developed as part of the **Mobile Application Development (MAD)** practical coursework. It demonstrates the development of an Android application using Android Studio and Kotlin-based Gradle configuration.
+This project is developed as part of the **Mobile Application Development (MAD)** practical coursework. It demonstrates the fundamentals of Android application development using Android Studio.
 
-The project focuses on understanding Android application development, user interface implementation, project structure, and the process of building and running an Android application.
+The project helps in understanding Android project structure, application development, build configuration, and the process of building and running an Android application.
 
 ## ✨ Features
 
 - Android application developed using Android Studio.
-- Structured Android project architecture.
+- Organized Android project structure.
 - User interface implementation.
-- Kotlin-based Gradle build configuration.
-- Designed for practical learning and experimentation.
-- Can be extended with additional features as required.
+- Gradle-based project configuration.
+- Application execution and testing on an emulator or physical device.
+- Extendable design for future improvements.
 
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
 | Android Studio | Android application development |
-| Kotlin | Application programming language, if used in the source code |
-| Gradle Kotlin DSL | Project build configuration |
-| Android SDK | Android application development tools |
-
-## 📸 Screenshots
-
-Add your application screenshots to the `screenshots` folder in the repository.
-
-<p align="center">
-  <img src="screenshots/1.png" width="250" alt="Application Screenshot 1">
-  <img src="screenshots/2.png" width="250" alt="Application Screenshot 2">
-  <img src="screenshots/3.png" width="250" alt="Application Screenshot 3">
-</p>
+| Kotlin | Application programming |
+| Gradle Kotlin DSL | Build configuration |
+| Android SDK | Android development tools |
 
 ## 📂 Project Structure
 
 ```text
 24012011188_Mad_pr_3/
-│
 ├── app/
 │   └── src/
 │       └── main/
 │           ├── java/
 │           ├── res/
 │           └── AndroidManifest.xml
-│
 ├── gradle/
 ├── build.gradle.kts
 ├── gradle.properties
@@ -55,17 +43,17 @@ Add your application screenshots to the `screenshots` folder in the repository.
 └── README.md
 ```
 
-*Note: The exact source folders and files may vary depending on your implementation.*
+*Note: The exact project structure may vary according to the implementation.*
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Android Studio installed on your computer.
-- Android SDK configured.
-- An Android emulator or a physical Android device.
+- Android Studio
+- Android SDK
+- Android emulator or physical Android device
 
-### Installation
+### Installation and Execution
 
 **1. Clone the repository**
 
@@ -75,40 +63,38 @@ git clone https://github.com/nidhitrentiya/24012011188_Mad_pr_3.git
 
 **2. Open the project**
 
-Open Android Studio, select **Open**, and choose the cloned project folder.
+Open Android Studio and select the cloned project folder.
 
 **3. Sync Gradle**
 
-Allow Android Studio to synchronize the Gradle files and download the required dependencies.
+Allow Gradle to synchronize the project and download the required dependencies.
 
 **4. Run the application**
 
-Select an emulator or connect your Android device, then click the **Run ▶** button.
+Select an emulator or connect an Android device, then click the **Run ▶** button.
 
 ## 🎯 Project Objectives
 
-- To understand the fundamentals of Android application development.
+- To understand the fundamentals of mobile application development.
 - To gain practical experience with Android Studio.
 - To understand Android project organization and build configuration.
-- To implement and test an Android application.
-- To develop practical mobile application development skills.
+- To develop and execute an Android application.
+- To learn application testing and debugging.
 
 ## 📚 Learning Outcomes
 
-After completing this practical, the developer gains experience in:
-
-- Working with Android Studio.
-- Understanding Android project files and directories.
-- Configuring and synchronizing Gradle.
-- Building and running an Android application.
-- Testing an application on an emulator or physical device.
+- Understanding Android Studio and its development environment.
+- Learning Android project structure.
+- Working with Gradle build configuration.
+- Building and running Android applications.
+- Gaining practical mobile application development experience.
 
 ## 🔮 Future Enhancements
 
-- Improve the user interface and user experience.
-- Add additional functionality based on the practical requirements.
-- Implement input validation and error handling where needed.
+- Enhance the user interface and user experience.
+- Add new features based on application requirements.
 - Improve application performance and usability.
+- Implement appropriate input validation and error handling.
 
 ## 👩‍💻 Developer
 
@@ -117,11 +103,11 @@ After completing this practical, the developer gains experience in:
 B.Tech Student | Mobile Application Development
 
 - **GitHub:** [@nidhitrentiya](https://github.com/nidhitrentiya)
-- **Project Repository:** [24012011188_Mad_pr_3](https://github.com/nidhitrentiya/24012011188_Mad_pr_3)
+- **Repository:** [24012011188_Mad_pr_3](https://github.com/nidhitrentiya/24012011188_Mad_pr_3)
 
 ## 📄 License
 
-This project is intended for educational and academic purposes.
+This project is developed for educational and academic purposes.
 
 ---
 
